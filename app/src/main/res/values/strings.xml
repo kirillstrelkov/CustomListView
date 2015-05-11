@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="countries">
+        <item>Brazilija</item>
+        <item>Argentina</item>
+        <item>Kolumbija</item>
+        <item>Urugvaj</item>
+        <item>Chili</item>
+        <item>Brazilija</item>
+        <item>Argentina</item>
+        <item>Kolumbija</item>
+        <item>Urugvaj</item>
+        <item>Chili</item>
+        <item>Brazilija</item>
+        <item>Argentina</item>
+        <item>Kolumbija</item>
+        <item>Urugvaj</item>
+        <item>Chili</item>
+    </string-array>
+    <string-array name="capitals">
+        <item>Brazilia</item>
+        <item>Bujenos-Ajres</item>
+        <item>Bogota</item>
+        <item>Montevideo</item>
+        <item>Santjago</item>
+        <item>Brazilia</item>
+        <item>Bujenos-Ajres</item>
+        <item>Bogota</item>
+        <item>Montevideo</item>
+        <item>Santjago</item>
+        <item>Brazilia</item>
+        <item>Bujenos-Ajres</item>
+        <item>Bogota</item>
+        <item>Montevideo</item>
+        <item>Santjago</item>
+    </string-array>
+    <string-array name="flags">
+        <item>brazil</item>
+        <item>argentina</item>
+        <item>columbia</item>
+        <item>uruguay</item>
+        <item>chile</item>
+        <item>brazil</item>
+        <item>argentina</item>
+        <item>columbia</item>
+        <item>uruguay</item>
+        <item>chile</item>
+        <item>brazil</item>
+        <item>argentina</item>
+        <item>columbia</item>
+        <item>uruguay</item>
+        <item>chile</item>
+    </string-array>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>

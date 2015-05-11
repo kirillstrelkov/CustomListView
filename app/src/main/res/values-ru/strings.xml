@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="countries">
+        <item>Бразилия</item>
+        <item>Аргентина</item>
+        <item>Колумбия</item>
+        <item>Уругвай</item>
+        <item>Чили</item>
+        <item>Бразилия</item>
+        <item>Аргентина</item>
+        <item>Колумбия</item>
+        <item>Уругвай</item>
+        <item>Чили</item>
+        <item>Бразилия</item>
+        <item>Аргентина</item>
+        <item>Колумбия</item>
+        <item>Уругвай</item>
+        <item>Чили</item>
+    </string-array>
+    <string-array name="capitals">
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Богота</item>
+        <item>Монтевидео</item>
+        <item>Сантьяго</item>
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Богота</item>
+        <item>Монтевидео</item>
+        <item>Сантьяго</item>
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Богота</item>
+        <item>Монтевидео</item>
+        <item>Сантьяго</item>
+    </string-array>
+</resources>
